@@ -1,2 +1,2 @@
 const name = "Petch"
-console.log(name)
+console.log(name)  
